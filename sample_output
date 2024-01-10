@@ -1,0 +1,104 @@
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+1
+Please enter your d value:3
+Please enter your initial heap size:8
+Please enter your initial 8 integers
+1
+5
+4
+2
+3
+6
+8
+7
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+2
+Your heap, in an array representation, is:	8 6 7 2 3 1 5 4 
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+3
+The value that has been extracted: 8
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+2
+Your heap, in an array representation, is:	7 6 4 2 3 1 5 
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+5
+Please enter your new value
+105
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+2
+Your heap, in an array representation, is:	105 6 7 2 3 1 5 4 
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+4
+Enter the index to be increased
+4
+Enter the key
+12
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+2
+Your heap, in an array representation, is:	105 12 7 2 6 1 5 4 
+d-ary Heap actions menu:
+1. Build d-ary Heap
+ 2. View your heap in an array representation
+ 3. Extract the maximum value 
+ 4. Increase Key in your Heap
+ 5. Insert a new value to your Heap
+ 6. exit
+Enter your choice:
+
+
